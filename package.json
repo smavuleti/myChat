@@ -1,0 +1,13 @@
+{
+	"name": "chat-heroku-app",
+	"description": "Application for chatting",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+	"ejs": "~1.0.0",
+	"express": "~4.9.8"
+	}
+
+}
